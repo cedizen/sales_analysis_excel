@@ -1,3 +1,5 @@
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 # Analyse de ventes en ligne pour "Le Grand Marché"
 
 ## Objectifs
